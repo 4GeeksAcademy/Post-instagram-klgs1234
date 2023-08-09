@@ -1,0 +1,53 @@
+.card{
+    background-color: white;
+    display: flex;
+    width: 500px;
+    height: 400px;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto;
+    border: 1px solid black;
+    
+}
+p{
+    margin: 0em 1em 1em 1em;
+    margin-top: 1px;
+}
+.right{
+    display: flex;
+    float: right;
+}
+.iconos{
+   margin: 1em 0.5em 0.5em 0.5em;
+}
+logo-img{
+    display: flex;
+    float: left;
+    margin-top: 0;
+}
+.usuario{
+    display: flex;
+    float: left;
+}
+.puntitos{
+    display: flex;
+    float: right;
+    margin-bottom: 0;
+}
+.logo-html{
+    display: flex;
+    float: left;
+}
+.footer{
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+.header{
+    margin: 0.8em;
+    margin-bottom: 0px;
+
+}
+.texto{
+    margin-top: 1em;
+}
